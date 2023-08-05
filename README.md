@@ -2,11 +2,11 @@
 Implementasi artificial neural network pada dataset credit card default.
 Ditujukan untuk memprediksi kecenderungan pemilik credit card untuk default berdasarkan berbagai parameter.
 
-##Tentang dataset
+## Tentang dataset
 Dataset ini berisi informasi tentang pembayaran default, faktor demografis, data kredit, riwayat pembayaran, dan laporan tagihan klien kartu kredit di Taiwan dari April 2005 hingga September 2005.
 Dataset terdiri dari 30000 instansi dan 24 atribut
 
-##Terdapat 25 variable, diantaranya:
+## Terdapat 25 variable, diantaranya:
 ID: ID of each client
 LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
 SEX: Gender (1=male, 2=female)
@@ -33,7 +33,7 @@ PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
 PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 default.payment.next.month: Default payment (1=yes, 0=no)
 
-##Acknowledgements
+## Acknowledgements
 Any publications based on this dataset should acknowledge the following:
 
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
